@@ -3,9 +3,9 @@
 
     angular
         .module('ng-backendless', [])
-        .factory('ngBackendless', ngBackendless);
+        .factory('Backendless', Backendless);
 
-        function ngBackendless($window) {
+        function Backendless($window) {
             return $window.Backendless;
         }
 })();
