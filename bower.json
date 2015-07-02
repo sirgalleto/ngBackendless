@@ -1,0 +1,29 @@
+{
+  "name": "ng-backendless",
+  "version": "0.0.1",
+  "authors": [
+    "Sebastián Osorio <svzosorio@boolinc.co>"
+  ],
+  "description": "backendless bindings for angularjs",
+  "main": "ng-backendless.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "backendless",
+    "angularjs",
+    "angular",
+    "ng-backendless"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backendless": "*"
+  }
+}

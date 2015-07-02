@@ -1,0 +1,14 @@
+{
+  "name": "backendless",
+  "homepage": "https://github.com/Backendless/bower",
+  "_release": "1d5b2a610e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1d5b2a610e917cf85280cbfb7a332907c9c9b1a7"
+  },
+  "_source": "git://github.com/Backendless/bower.git",
+  "_target": "*",
+  "_originalSource": "backendless",
+  "_direct": true
+}
